@@ -1,0 +1,2 @@
+# LWInfiniteScrollView
+基于UIScrollwView实现的无限轮播图,并附加点击事件
